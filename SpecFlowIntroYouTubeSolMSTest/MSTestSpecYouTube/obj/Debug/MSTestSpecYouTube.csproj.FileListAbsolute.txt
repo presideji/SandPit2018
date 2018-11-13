@@ -1,0 +1,36 @@
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\MSTestSpecYouTube.dll.config
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\MSTestSpecYouTube.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\MSTestSpecYouTube.pdb
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Newtonsoft.Json.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\System.ValueTuple.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\TechTalk.SpecFlow.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Newtonsoft.Json.xml
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\obj\Debug\MSTestSpecYouTube.dll
+\\gandalf\home$\dakinola\visual studio 2017\Projects\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\obj\Debug\MSTestSpecYouTube.pdb
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\MSTestSpecYouTube.dll.config
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\MSTestSpecYouTube.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\MSTestSpecYouTube.pdb
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Newtonsoft.Json.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\System.ValueTuple.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\TechTalk.SpecFlow.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\Newtonsoft.Json.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\obj\Debug\MSTestSpecYouTube.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\obj\Debug\MSTestSpecYouTube.pdb
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\obj\Debug\MSTestSpecYouTube.csprojResolveAssemblyReference.cache
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\ImpromptuInterface.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\SpecFlow.Assist.Dynamic.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\ImpromptuInterface.xml
