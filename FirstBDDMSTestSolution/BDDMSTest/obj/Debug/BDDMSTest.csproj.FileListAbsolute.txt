@@ -1,0 +1,42 @@
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\BDDMSTest.dll.config
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\BDDMSTest.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\BDDMSTest.pdb
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Newtonsoft.Json.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\System.ValueTuple.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\TechTalk.SpecFlow.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.Support.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Newtonsoft.Json.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.Support.xml
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\obj\Debug\BDDMSTest.csprojResolveAssemblyReference.cache
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\obj\Debug\BDDMSTest.dll
+\\gandalf\home$\dakinola\SandPit2018\BDD\FirstBDDMSTestSolution\BDDMSTest\obj\Debug\BDDMSTest.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\BDDMSTest.dll.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\BDDMSTest.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\BDDMSTest.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\bin\Debug\WebDriver.Support.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\obj\Debug\BDDMSTest.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\obj\Debug\BDDMSTest.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\FirstBDDMSTestSolution\BDDMSTest\obj\Debug\BDDMSTest.pdb
