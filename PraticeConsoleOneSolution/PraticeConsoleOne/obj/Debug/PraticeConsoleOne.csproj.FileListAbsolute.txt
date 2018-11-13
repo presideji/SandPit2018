@@ -1,0 +1,6 @@
+H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\bin\Debug\PraticeConsoleOne.exe.config
+H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\bin\Debug\PraticeConsoleOne.exe
+H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\bin\Debug\PraticeConsoleOne.pdb
+H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.exe
+H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.pdb
+H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.csprojResolveAssemblyReference.cache
