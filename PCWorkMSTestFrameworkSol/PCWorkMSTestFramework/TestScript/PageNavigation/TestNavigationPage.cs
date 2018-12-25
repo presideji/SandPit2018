@@ -22,6 +22,8 @@ namespace PCWorkMSTestFramework.TestScript.PageNavigation
            // Console.WriteLine(CurrentPagetitle);// a better way to write it
             //Console.WriteLine(ObjectRepository.Driver.Title);
             Console.WriteLine(WindowHelper.GetPageTitle());
+
+           
         
         }
     }
