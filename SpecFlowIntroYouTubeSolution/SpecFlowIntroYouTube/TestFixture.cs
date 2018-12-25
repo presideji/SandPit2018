@@ -17,7 +17,6 @@ namespace SpecFlowIntroYouTube
             Console.WriteLine("Calling before Features");
         }
 
-
         
         [BeforeScenario]
         public void BeforeScenario()
