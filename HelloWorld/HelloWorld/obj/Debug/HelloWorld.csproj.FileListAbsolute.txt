@@ -3,3 +3,7 @@ H:\SandPit2018\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 H:\SandPit2018\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 H:\SandPit2018\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 H:\SandPit2018\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+H:\SandPit2018\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
