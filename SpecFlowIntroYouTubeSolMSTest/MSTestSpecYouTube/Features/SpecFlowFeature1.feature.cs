@@ -200,6 +200,34 @@ this.CreateANewEmployeeWithMandataryDetailsForDifferentIteration("John", "28", "
 this.CreateANewEmployeeWithMandataryDetailsForDifferentIteration("Sam", "28", "2342348902", ((string[])(null)));
 #line hidden
         }
+        
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("Check if I could get the details entered via Table from Extended Steps")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "SpecFlowFeature1")]
+        public virtual void CheckIfICouldGetTheDetailsEnteredViaTableFromExtendedSteps()
+        {
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Check if I could get the details entered via Table from Extended Steps", null, ((string[])(null)));
+#line 38
+this.ScenarioInitialize(scenarioInfo);
+            this.ScenarioStart();
+#line hidden
+            TechTalk.SpecFlow.Table table2 = new TechTalk.SpecFlow.Table(new string[] {
+                        "Name",
+                        "Age",
+                        "Phone",
+                        "Email"});
+            table2.AddRow(new string[] {
+                        "karthik",
+                        "28",
+                        "9098023842",
+                        "james@gmail.com"});
+#line 39
+ testRunner.When("I fill all the mandatory details in form", ((string)(null)), table2, "When ");
+#line 42
+  testRunner.Then("I should get the same value from Extended steps", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+            this.ScenarioCleanup();
+        }
     }
 }
 #pragma warning restore

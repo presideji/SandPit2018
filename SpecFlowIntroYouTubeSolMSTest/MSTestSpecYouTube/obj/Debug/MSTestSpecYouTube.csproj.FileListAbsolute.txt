@@ -34,3 +34,5 @@
 \\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\ImpromptuInterface.dll
 \\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\SpecFlow.Assist.Dynamic.dll
 \\gandalf\home$\dakinola\SandPit2018\BDD\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\bin\Debug\ImpromptuInterface.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\obj\Debug\MSTestSpecYouTube.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\SpecFlowIntroYouTubeSolMSTest\MSTestSpecYouTube\obj\Debug\MSTestSpecYouTube.pdb

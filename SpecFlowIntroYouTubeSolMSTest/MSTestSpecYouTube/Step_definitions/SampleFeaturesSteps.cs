@@ -13,6 +13,14 @@ namespace MSTestSpecYouTube
     [Binding]
     class SampleFeaturesSteps
     {
+        public readonly EmployeeDetails employee;
+
+        public SampleFeaturesSteps(EmployeeDetails emp)
+        {
+            this.employee = emp;
+        }
+
+
         [Given(@"I have entered (.*) into the calculator")]
         public void GivenIHaveEnteredIntoTheCalculator(int numbers)
         {
@@ -42,6 +50,19 @@ namespace MSTestSpecYouTube
         [When(@"I fill all the mandatory details in form")]
         public void WhenIFillAllTheMandatoryDetailsInForm(Table table)
         {
+            {
+                var data = table.CreateDynamicSet();
+                foreach (var item in data)
+                {
+                    employee.Age = (int)item.Age;
+                    employee.Email = (string)item.Email;
+                    employee.Name = (string)item.Name;
+                    employee.Phone = (long)item.Phone;
+
+                }
+
+            }
+
             //EmployeeDetails details =  table.CreateInstance<EmployeeDetails>();
             //Console.WriteLine(details.Age);
             //Console.WriteLine(details.Email);
