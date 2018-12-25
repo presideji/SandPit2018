@@ -4,3 +4,6 @@ H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\bin\Debug\PraticeCons
 H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.exe
 H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.pdb
 H:\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\bin\Debug\PraticeConsoleOne.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\SandPit2018\PraticeConsoleOneSolution\PraticeConsoleOne\obj\Debug\PraticeConsoleOne.pdb
