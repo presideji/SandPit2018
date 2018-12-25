@@ -41,3 +41,11 @@ Examples:
 	| Sam	  | 28  | 2342348902 |
 	
 	#22. let us now generate the steps and put it in features
+
+	#from 33, then also create a step definition class -"ExtendedSteps"
+Scenario: Check if I could get the details entered via Table from Extended Steps
+	When I fill all the mandatory details in form
+	| Name    | Age | Phone      | Email           |
+	| karthik | 28  | 9098023842 | james@gmail.com |
+	Then I Should get the same value from Extended steps
+

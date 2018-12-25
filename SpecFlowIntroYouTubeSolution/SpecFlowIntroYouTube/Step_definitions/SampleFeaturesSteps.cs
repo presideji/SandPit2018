@@ -12,6 +12,15 @@ namespace SpecFlowIntroYouTube.Step_definitions
     [Binding]
     class SampleFeaturesSteps
     {
+        //38. Create a POCO Object
+        public readonly EmployeeDetails employee;
+
+        public SampleFeaturesSteps(EmployeeDetails emp)
+        {
+            this.employee = emp;
+        }
+
+
         [Given(@"I have entered (.*) into the calculator")]
         public void
             GivenIHaveEnteredIntoTheCalculator(int numbersclass1) //2.insted of"int p0" let us use some meaningful things
@@ -50,6 +59,19 @@ namespace SpecFlowIntroYouTube.Step_definitions
         [When(@"I fill all the mandatory details in form")]
         public void WhenIFillAllTheMandatoryDetailsInForm(Table table)
         {
+            //39. Create a dynamic set for the table. After this go to extendedsteps
+            {
+                var data = table.CreateDynamicSet();
+                foreach (var item in data)
+                {
+                    employee.Age = (int)item.Age;
+                    employee.Email = (string)item.Email;
+                    employee.Name = (string)item.Name;
+                    employee.Phone = (long)item.Phone;
+
+                }
+            }
+
             //ScenarioContext.Current.Pending(); //11. let us remove this
             //12. Now let us parse the data for our feature.let us create a custom class"EmployeeDetails"
 
@@ -109,6 +131,7 @@ namespace SpecFlowIntroYouTube.Step_definitions
                 Console.WriteLine(emp.Phone);
             }
 
+            //33. now go to "SpecFlowFeature1.feature-part12"
 
 
 
