@@ -13,6 +13,7 @@
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\RepPCWorkMSTestFramework.dll.config
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\RepPCWorkMSTestFramework.dll
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\RepPCWorkMSTestFramework.pdb
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
