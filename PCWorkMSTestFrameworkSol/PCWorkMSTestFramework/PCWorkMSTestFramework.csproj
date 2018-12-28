@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="BaseClasses\Baseclass.cs" />
     <Compile Include="BrowserLaunchTest\LaunchBrowser.cs" />
+    <Compile Include="ComponentHelper\GenericClassHelper.cs" />
+    <Compile Include="ComponentHelper\LinkHelper.cs" />
     <Compile Include="ComponentHelper\NavigationHelper.cs" />
     <Compile Include="ComponentHelper\WindowHelper.cs" />
     <Compile Include="Configuration\AppConfigReader.cs" />
@@ -69,6 +71,7 @@
     <Compile Include="Setting\AppConfigKeys.cs" />
     <Compile Include="Setting\ObjectRepository.cs" />
     <Compile Include="TestScript\PageNavigation\TestNavigationPage.cs" />
+    <Compile Include="TestScript\TestLinkClick\TestLink.cs" />
     <Compile Include="TestScript\WebElementsTest\ElementsTest.cs" />
     <Compile Include="UnitTest1.cs" />
   </ItemGroup>
