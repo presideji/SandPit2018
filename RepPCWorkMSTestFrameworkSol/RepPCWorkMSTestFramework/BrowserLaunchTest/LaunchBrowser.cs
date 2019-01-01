@@ -21,20 +21,26 @@ namespace RepPCWorkMSTestFramework.BrowserLaunchTest
         [TestCategory("Selenium Tests")]
         public void BrowserLaunch()
         {
+            //var baseURL = "https://www.asda.com/";
             //IWebDriver driver = new ChromeDriver();
             //driver.Manage().Window.Maximize();
-            //driver.Navigate().GoToUrl("https://www.asda.com/");
+            //driver.Navigate().GoToUrl("https://www.asda.com/"); ///////////can be rewritten as below
+            //driver.Navigate().GoToUrl("baseURL");
+            //var currentPageTitle = driver.Title;
+            //Console.WriteLine();
             //driver.Close();
             //Thread.Sleep(5000);
             //driver.Quit();
 
 
-            var baseURL = "https://www.bbc.co.uk";
+            var baseURL = "https://www.asda.com/";
             //Let us use Internet explorer now
             IWebDriver driver = new InternetExplorerDriver();
             driver.Manage().Window.Maximize();
             //driver.Navigate().GoToUrl("https://www.bbc.co.uk/");
             driver.Navigate().GoToUrl(baseURL);
+            var currentPageTitle = driver.Title;
+            Console.WriteLine(currentPageTitle);
             // driver.Close();
             Thread.Sleep(5000);
             driver.Quit();

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
 using RepPCWorkMSTestFramework.Configuration;
@@ -18,21 +19,55 @@ namespace RepPCWorkMSTestFramework.BaseClasses
     [TestClass]
     public class Baseclass
     {
+        private static FirefoxProfile GetFirefoxOptions()
+        {
+            var fProfile = new FirefoxProfile();
+            var fXManager = new FirefoxProfileManager();
+            fXManager.GetProfile("default");
+            return fProfile;
+        }
+        private static ChromeOptions GetChromeOptions()
+        {
+            var cOptions = new ChromeOptions();
+            cOptions.AddArgument("start-maximized");
+            return cOptions;
+        }
+
+        private static InternetExplorerOptions GetIEOption()
+        {
+            var iEOptions = new InternetExplorerOptions
+            {
+                IntroduceInstabilityByIgnoringProtectedModeSettings = true,
+                EnsureCleanSession = true
+            };
+            return iEOptions;
+
+
+
+        }
+
         private static IWebDriver GetFirefoxBrowser()
         {
+            // IWebDriver driver = new FirefoxDriver(GetFirefoxOptions());
             IWebDriver driver = new FirefoxDriver();
             return driver;
         }
 
         private static IWebDriver GetChromeBrowser()
         {
-            IWebDriver driver = new ChromeDriver();
+            IWebDriver driver = new ChromeDriver(GetChromeOptions());
             return driver;
         }
 
         private static IWebDriver GetIEBrowser()
         {
-            IWebDriver driver = new InternetExplorerDriver();
+            IWebDriver driver = new InternetExplorerDriver(GetIEOption());
+            return driver;
+        }
+
+        private static IWebDriver GetEdgeBrowser()
+        {
+            IWebDriver driver = new EdgeDriver();
             return driver;
         }
 
