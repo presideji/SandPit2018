@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="BaseClasses\Baseclass.cs" />
     <Compile Include="BrowserLaunchTest\LaunchBrowser.cs" />
+    <Compile Include="ComponentHelper\GenericClassHelper.cs" />
+    <Compile Include="ComponentHelper\LinkHelper.cs" />
     <Compile Include="ComponentHelper\NavigationHelper.cs" />
     <Compile Include="ComponentHelper\WindowHelper.cs" />
     <Compile Include="Configuration\AppConfigReader.cs" />
