@@ -20,7 +20,7 @@ namespace PCWorkMSTestFramework.ComponentHelper
             {
                 return false;
             }
-            return ObjectRepository.Driver.FindElements(locator).Count == 1;
+            //return ObjectRepository.Driver.FindElements(locator).Count == 1;
 
         }
 

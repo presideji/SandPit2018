@@ -19,7 +19,7 @@ namespace RepPCWorkMSTestFramework.TestScripts.TestLinkClick
         {
             NavigationHelper.NavigateTOURL(ObjectRepository.Config.GetWebsite());
             //IWebElement ClickLink = ObjectRepository.Driver.FindElement(By.LinkText("Login"));
-            //ClickLink.Click(); //we can simplify this as below
+            //ClickLink.Click(); - we
 
             LinkHelper.ClickLink(By.LinkText("Login"));
         }
