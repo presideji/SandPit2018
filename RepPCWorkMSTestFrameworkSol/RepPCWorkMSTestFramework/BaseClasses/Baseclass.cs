@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing.Text;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
@@ -100,6 +101,8 @@ namespace RepPCWorkMSTestFramework.BaseClasses
         public static void TearDown()
         {
             if (ObjectRepository.Driver == null) return;
+            //okay
+            //Thread.Sleep(5000);
             ObjectRepository.Driver.Close();
             ObjectRepository.Driver.Quit();
         }
