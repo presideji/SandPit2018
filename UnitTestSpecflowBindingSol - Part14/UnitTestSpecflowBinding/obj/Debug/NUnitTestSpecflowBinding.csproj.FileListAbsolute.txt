@@ -1,0 +1,19 @@
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol\UnitTestSpecflowBinding\bin\Debug\UnitTestSpecflowBinding.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\nunit.engine.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\nunit.engine.api.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\UnitTestSpecflowBinding.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\UnitTestSpecflowBinding.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\UnitTestSpecflowBinding.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\nunit.framework.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\nunit.framework.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\nunit.framework.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\obj\Debug\UnitTestSpecflowBinding.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\UnitTestSpecflowBindingSol - Part14\UnitTestSpecflowBinding\obj\Debug\UnitTestSpecflowBinding.pdb
