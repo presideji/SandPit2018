@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "ae0bc868-7586-47fb-ad6d-467148427e97",
+		"name": "Three Musketeers",
+		"description": "Just Ayo, Charles and Tony in attendance.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET",
+			"item": [
+				{
+					"name": "http://localhost:9999/student/list",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:9999/student/list",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9999",
+							"path": [
+								"student",
+								"list"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "{{Student-List}}",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{Student-List}}",
+							"host": [
+								"{{Student-List}}"
+							]
+						},
+						"description": "Avoid repitition use this"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "PUT",
+			"item": []
+		},
+		{
+			"name": "POST",
+			"item": []
+		},
+		{
+			"name": "DELETE",
+			"item": []
+		}
+	]
+}

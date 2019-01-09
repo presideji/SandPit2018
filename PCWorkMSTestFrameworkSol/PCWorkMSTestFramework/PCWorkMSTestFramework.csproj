@@ -58,8 +58,10 @@
   <ItemGroup>
     <Compile Include="BaseClasses\Baseclass.cs" />
     <Compile Include="BrowserLaunchTest\LaunchBrowser.cs" />
+    <Compile Include="ComponentHelper\CheckboxHelper.cs" />
     <Compile Include="ComponentHelper\GenericClassHelper.cs" />
     <Compile Include="ComponentHelper\LinkHelper.cs" />
+    <Compile Include="ComponentHelper\MenuButtonHelper.cs" />
     <Compile Include="ComponentHelper\NavigationHelper.cs" />
     <Compile Include="ComponentHelper\TextboxHelper.cs" />
     <Compile Include="ComponentHelper\WindowHelper.cs" />
@@ -71,7 +73,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Setting\AppConfigKeys.cs" />
     <Compile Include="Setting\ObjectRepository.cs" />
+    <Compile Include="TestScript\MenuButton\SelectMenuButton.cs" />
     <Compile Include="TestScript\PageNavigation\TestNavigationPage.cs" />
+    <Compile Include="TestScript\Checkbox\TestCheckbox.cs" />
     <Compile Include="TestScript\TestLinkClick\TestLink.cs" />
     <Compile Include="TestScript\TextBoxTest\TestTextBox.cs" />
     <Compile Include="TestScript\WebElementsTest\ElementsTest.cs" />
