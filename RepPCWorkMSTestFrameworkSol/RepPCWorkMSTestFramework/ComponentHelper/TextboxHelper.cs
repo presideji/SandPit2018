@@ -7,22 +7,21 @@ using OpenQA.Selenium;
 
 namespace RepPCWorkMSTestFramework.ComponentHelper
 {
-    class TextboxHelper
+    public class TextboxHelper
     {
         private static IWebElement element;
 
-        public static void SendTextToTextbox(By locator, string text)
+        public static void SendTextToTextbox(By locator, string text) //where wherever you find a textbox call this helper class
         {
             element = GenericClassHelper.GetElement(locator);
             element.SendKeys(text);
         }
 
-        public static void ClearText(By locator)
+        public static void ClearTextBox(By locator)
         {
             element = GenericClassHelper.GetElement(locator);
             element.Clear();
-
-           
         }
+
     }
 }

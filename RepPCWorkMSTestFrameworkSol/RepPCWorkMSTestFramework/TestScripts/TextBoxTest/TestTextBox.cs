@@ -16,19 +16,19 @@ namespace RepPCWorkMSTestFramework.TestScripts.TextBoxTest
         [TestMethod, TestCategory("CLEAR A TEXTBOX")]
         public void TextBox()
         {
-            NavigationHelper.
-                NavigateTOURL(ObjectRepository.
-                Config.
-                GetWebsite());
+            NavigationHelper.NavigateTOURL(ObjectRepository.Config.GetWebsite());
 
             LinkHelper.ClickLink(By.LinkText("Login"));
 
-            //IWebElement EmailBoxField = ObjectRepository.
-            //    Driver.
-            //    FindElement(By.Id("input-email"));
-            //EmailBoxField.Clear();
-            TextboxHelper.ClearText(By.Id("input-email"));
+
+            //IWebElement emailBoxField = ObjectRepository.Driver.FindElement(By.Id("input-email"));
+            //emailBoxField.Clear();
+
+            TextboxHelper.ClearTextBox(By.Id("input-email")); //clear data out of text box
             TextboxHelper.SendTextToTextbox(By.Id("input-email"), ObjectRepository.Config.GetUsername());
+
+
         }
+
     }
 }

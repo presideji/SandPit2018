@@ -27,6 +27,23 @@
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.dll
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.pdb
 \\P2-ITS-ARCHIVE2\Home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.csprojResolveAssemblyReference.cache
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\RepPCWorkMSTestFramework.dll.config
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\RepPCWorkMSTestFramework.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\RepPCWorkMSTestFramework.pdb
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\WebDriver.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\WebDriver.Support.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\WebDriver.xml
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\WebDriver.Support.xml
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.csprojResolveAssemblyReference.cache
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.dll
+\\gandalf\home$\dakinola\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.pdb
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -41,6 +58,6 @@ C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit201
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\WebDriver.xml
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.pdb
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\RepPCWorkMSTestFrameworkSol\RepPCWorkMSTestFramework\obj\Debug\RepPCWorkMSTestFramework.csprojResolveAssemblyReference.cache

@@ -14,20 +14,13 @@ namespace RepPCWorkMSTestFramework.ComponentHelper
         {
             try
             {
-                return ObjectRepository.
-                            Driver.
-                            FindElements(locator).
-                            Count == 1;
+                return ObjectRepository.Driver.FindElements(locator).Count == 1;
             }
             catch (Exception)
             {
-
                 return false;
             }
-            //let us use "try catch" above for the below
-            //return ObjectRepository.
-            //    Driver.
-            //    FindElements(locator).Count == 1;
+            
         }
 
         public static IWebElement GetElement(By locator)
@@ -36,10 +29,12 @@ namespace RepPCWorkMSTestFramework.ComponentHelper
             {
                 return ObjectRepository.Driver.FindElement(locator);
             }
-            //else - we can delete "else" as it is reduntant
+            else
             {
-                throw new NoSuchElementException("Element is not present" + locator);
+                throw new NoSuchElementException("Element is not present" + locator.ToString());
             }
         }
+
+
     }
 }

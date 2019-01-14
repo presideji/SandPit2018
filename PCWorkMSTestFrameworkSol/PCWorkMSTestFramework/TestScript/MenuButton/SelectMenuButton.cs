@@ -21,7 +21,7 @@ namespace PCWorkMSTestFramework.TestScript.MenuButton
             //IWebElement menuButton = ObjectRepository.Driver.FindElement(By.ClassName("btn-primary"));
             //menuButton.Click();
 
-            //from selectmenue button
+            //from selectmenu button
             Console.WriteLine("Button text is {0}", MenuButtonHelper.GetButtonText(By.ClassName("btn-primary")));
             Console.WriteLine(MenuButtonHelper.IsButtonEnabled(By.ClassName("btn-primary")));
             MenuButtonHelper.SelectMenuButton(By.ClassName("btn-primary"));

@@ -7,7 +7,7 @@ using OpenQA.Selenium;
 
 namespace RepPCWorkMSTestFramework.ComponentHelper
 {
-    public class LinkHelper
+    public class LinkHelper //all the helper we have created we will use them here
     {
         private static IWebElement _element;
 
@@ -16,5 +16,6 @@ namespace RepPCWorkMSTestFramework.ComponentHelper
             _element = GenericClassHelper.GetElement(locator);
             _element.Click();
         }
+
     }
 }
