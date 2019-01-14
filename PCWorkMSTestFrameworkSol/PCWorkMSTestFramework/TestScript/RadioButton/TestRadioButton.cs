@@ -18,16 +18,19 @@ namespace PCWorkMSTestFramework.TestScript.RadioButton
         {
             NavigationHelper.NavigateToURl(ObjectRepository.Config.GetWebsite());
 
-            //var radioButton = ObjectRepository.Driver.FindElement(By.Name("newsletter"));
-            IList<IWebElement> radio = ObjectRepository.Driver.FindElements(By.TagName("input"));
+            Console.WriteLine(RadioButtonHelper.IsRadioButtonSelected(By.XPath("//*[@id=\"content\"]/form/fieldset[3]/div/div/label[2]/input")));
+            RadioButtonHelper.ClickOneRadiobutton(By.XPath("//*[@id=\"content\"]/form/fieldset[3]/div/div/label[2]/input"));
 
-            foreach (var radioOption in radio)
-            {
-                if (radioOption.GetAttribute("value").Equals("0"))
-                {
-                    radioOption.Click();
-                }
-            }
+            ////var radioButton = ObjectRepository.Driver.FindElement(By.Name("newsletter"));
+            //IList<IWebElement> radio = ObjectRepository.Driver.FindElements(By.TagName("input"));
+
+            //foreach (var radioOption in radio)
+            //{
+            //    if (radioOption.GetAttribute("value").Equals("0"))
+            //    {
+            //        radioOption.Click();
+            //    }
+            //}
             //radioButton.Click();
 
             //RadioButtonHelper.IsRadioButtonSelected(By.Id("newsletter_No"));//this is a place holder. A "hack"
