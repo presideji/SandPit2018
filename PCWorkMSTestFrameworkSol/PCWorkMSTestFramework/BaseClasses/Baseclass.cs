@@ -36,6 +36,16 @@ namespace PCWorkMSTestFramework.BaseClasses
             return cOption;
         }
 
+        //this is for headless browser
+        private static ChromeOptions GetMoreChromeOption()
+        {
+            var moreCOption = new ChromeOptions();
+            moreCOption.AddArgument("--headless");
+            return moreCOption;
+
+        }
+
+
         private static InternetExplorerOptions GetIeOption()
         {
             var iEOption = new InternetExplorerOptions();
@@ -57,6 +67,16 @@ namespace PCWorkMSTestFramework.BaseClasses
             return driver;
         }
 
+
+        //Headless, another need for browser here
+        private static IWebDriver GetChromeBrowserExtra()
+        {
+            IWebDriver driver = new ChromeDriver(GetMoreChromeOption());
+            return driver;
+
+        }
+
+        
         private static IWebDriver GetIEBrowser()
         {
             IWebDriver driver = new InternetExplorerDriver(GetIeOption());
@@ -93,6 +113,13 @@ namespace PCWorkMSTestFramework.BaseClasses
 
                 case BrowserType.IExplorer:
                     ObjectRepository.Driver = GetIEBrowser();
+                    break;
+
+                case BrowserType.Edge:
+                    ObjectRepository.Driver = GetEdgeBrowser();
+                    break;
+                case BrowserType.ChromeHeadless:
+                    ObjectRepository.Driver = GetChromeBrowserExtra();
                     break;
                     default:
                     /* if none of the pre-defined browser are referenced we need an input to handle the error that will be

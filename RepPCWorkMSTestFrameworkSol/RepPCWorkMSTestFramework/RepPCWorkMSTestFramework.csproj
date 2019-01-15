@@ -76,7 +76,7 @@
     <Compile Include="TestScripts\Checkbox\TestCheckbox.cs" />
     <Compile Include="TestScripts\DropdownMenuTest\TestDropdownMenu.cs" />
     <Compile Include="TestScripts\MenuButton\SelectMenuButton.cs" />
-    <Compile Include="TestScripts\PageNavigation\TestLink.cs" />
+    <Compile Include="TestScripts\TestLinkClick\TestLink.cs" />
     <Compile Include="TestScripts\PageNavigation\TestNavigationPage.cs" />
     <Compile Include="TestScripts\RadioButton\TestRadioButton.cs" />
     <Compile Include="TestScripts\TextBoxTest\TestTextBox.cs" />
@@ -91,7 +91,6 @@
   <ItemGroup>
     <Folder Include="ExcelReader\" />
     <Folder Include="PageObjects\" />
-    <Folder Include="TestScripts\TestLinkClick\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

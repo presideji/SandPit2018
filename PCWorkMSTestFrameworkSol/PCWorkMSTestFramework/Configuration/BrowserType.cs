@@ -10,6 +10,8 @@ namespace PCWorkMSTestFramework.Configuration
     {
         Firefox,
         Chrome,
+        Edge,
+        ChromeHeadless,
         IExplorer
 
     }
