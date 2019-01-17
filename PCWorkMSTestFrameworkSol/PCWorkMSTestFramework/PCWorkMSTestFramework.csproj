@@ -79,7 +79,7 @@
     <Compile Include="Interfaces\IConfig.cs" />
     <Compile Include="PageObjectModel\DownLoadPage.cs" />
     <Compile Include="PageObjectModel\HomePage.cs" />
-    <Compile Include="PageObjectModel\RegisterAccountPageCopy.cs" />
+    <Compile Include="TestScript\DataDriven\RegisterAccountPageCopy.cs" />
     <Compile Include="PageObjectModel\RegisterAccountPage.cs" />
     <Compile Include="PageObjectModel\UserAccountPage.cs" />
     <Compile Include="PageObjectModel\UserDetailsPage.cs" />
@@ -88,7 +88,6 @@
     <Compile Include="Setting\AppConfigKeys.cs" />
     <Compile Include="Setting\ObjectRepository.cs" />
     <Compile Include="TestScript\BrowserAction\GenericBrowserActions.cs" />
-    <Compile Include="TestScript\DataDriven\RegisterAccountPageCopy.cs" />
     <Compile Include="TestScript\DataDriven\SampleDataDrivenTest.cs" />
     <Compile Include="TestScript\DropdownMenuTest\TestDropdownMenu.cs" />
     <Compile Include="TestScript\MenuButton\SelectMenuButton.cs" />

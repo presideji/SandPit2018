@@ -26,6 +26,14 @@ namespace PCWorkMSTestFramework.PageObjectModel
             MenuButtonHelper.SelectMenuButton(_registrationButton);
             return new RegisterAccountPage();
         }
+
+
+        public RegisterAccountPage SelectRegisterAccountButtontwo()
+        {
+            MenuButtonHelper.SelectMenuButton(_myAccountTab);
+            MenuButtonHelper.SelectMenuButton(_registrationButton);
+            return new RegisterAccountPage();
+        }
         #endregion
     }
 }
