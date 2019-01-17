@@ -35,6 +35,12 @@ namespace PCWorkMSTestFramework.Configuration
             return ConfigurationManager.AppSettings.Get(AppConfigKeys.Website);
         }
 
+        public int GetPageLoadtimeout()
+        {
+            var timeout = ConfigurationManager.AppSettings.Get(AppConfigKeys.PageTimeout);
+            return timeout == null ? 30 : Convert.ToInt32(timeout);
+        }
+
 
         //30.now let us create "appconfigkeys" class
     }

@@ -148,6 +148,7 @@ namespace PCWorkMSTestFramework.BaseClasses
                     //41 now let us go and set up "AssemblyInitialize"
 
             }
+            ObjectRepository.Driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(50);
         }
 
         [AssemblyCleanup]

@@ -14,7 +14,8 @@ namespace PCWorkMSTestFramework.Interfaces
         string GetUsername();
         string GetPassword();
         string GetWebsite(); // you will note that what you have added here is inherited somewhere, in "AppConfig"
-        
+        int GetPageLoadtimeout();
+
 
     }
 }

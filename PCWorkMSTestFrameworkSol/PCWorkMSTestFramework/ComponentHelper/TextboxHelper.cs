@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,5 +25,9 @@ namespace PCWorkMSTestFramework.ComponentHelper
 
         }
 
+        internal static void SendTextToTextbox(By _firstname, DataRow dataRow)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
