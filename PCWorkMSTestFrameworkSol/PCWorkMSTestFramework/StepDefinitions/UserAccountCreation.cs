@@ -55,7 +55,7 @@ namespace PCWorkMSTestFramework.StepDefinitions
         [Given(@"I have entered my email address")]
         public void GivenIHaveEnteredMyEmailAddress()
         {
-            TextboxHelper.SendTextToTextbox(_email, "wehdey@yo.com");
+            TextboxHelper.SendTextToTextbox(_email, "wehdey1@yo.com");
         }
 
         [Given(@"I have entered my telephone number")]
@@ -81,6 +81,52 @@ namespace PCWorkMSTestFramework.StepDefinitions
         {
          
         }
+
+        //[Given(@"I have entered my ""(.*)""")]
+        //public void GivenIHaveEnteredMy(string firstname)
+        //{
+        //    TextboxHelper.SendTextToTextbox(_firstname, firstname );
+        //}
+
+        //[Given(@"I have also entered my ""(.*)""")]
+        //public void GivenIHaveAlsoEnteredMy(string lastname)
+        //{
+        //    TextboxHelper.SendTextToTextbox(_lastname, lastname);
+        //}
+
+        //[Given(@"I then enter my ""(.*)""")]
+        //public void GivenIThenEnterMy(string email)
+        //{
+        //  TextboxHelper.SendTextToTextbox(_email, email);
+        //}
+
+        //[Given(@"I finally enter my ""(.*)""")]
+        //public void GivenIFinallyEnterMy(string phone)
+        //{
+        //    TextboxHelper.SendTextToTextbox(_phone, phone);
+        //}
+
+        ////[Given(@"I entered my ""(.*)""")]
+        ////public void GivenIEnteredMy(string password)
+        ////{
+        ////    TextboxHelper.SendTextToTextbox(_password, password);
+
+        ////}
+
+        ////[Given(@"I confirmed my ""(.*)""")]
+        ////public void GivenIConfirmedMy(string confirmpassword)
+        ////{
+        ////    TextboxHelper.SendTextToTextbox(_confirmPassword, confirmpassword);
+        ////}
+
+
+        ////[Given(@"I agree with the policy")]
+        ////public void GivenIAgreeWithThePolicy()
+        ////{
+        ////    MenuButtonHelper.SelectMenuButton(_policyBox);
+        ////}
+
+
 
     }
 }

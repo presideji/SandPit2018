@@ -127,7 +127,7 @@ namespace PCWorkMSTestFramework.FeatureFiles
             this.ScenarioCleanup();
         }
         
-        public virtual void DontCreateAnAccountIfAnyMandatoryFieldIsMissed(string firstname, string lastname, string emailaddress, string phonenumber, string[] exampleTags)
+        public virtual void DontCreateAnAccountIfAnyMandatoryFieldIsMissed(string firstname, string lastname, string email, string phone, string[] exampleTags)
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Don\'t create an account if any mandatory field is missed", null, exampleTags);
 #line 18
@@ -138,16 +138,18 @@ namespace PCWorkMSTestFramework.FeatureFiles
 #line 19
  testRunner.And(string.Format("I have entered my \"{0}\"", firstname), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 20
- testRunner.And(string.Format("I have entered my \"{0}\"", lastname), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(string.Format("I have also input my \"{0}\"", lastname), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 21
- testRunner.And(string.Format("I have entered my \"{0}\"", emailaddress), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(string.Format("I then enter my \"{0}\"", email), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 22
- testRunner.And(string.Format("I have entered my \"{0}\"", phonenumber), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(string.Format("I finally enter my \"{0}\"", phone), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 23
- testRunner.When("I selected the continue button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.And("I agree with the policy", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 24
- testRunner.Then("my account should not be created", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.When("I selected the continue button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 25
+ testRunner.Then("my account should not be created", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line 26
  testRunner.And("I should not be logged into my homepage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             this.ScenarioCleanup();
@@ -160,12 +162,12 @@ namespace PCWorkMSTestFramework.FeatureFiles
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "Andre")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:firstname", "Andre")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:lastname", "dada")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:emailaddress", "test1@you.com")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:phonenumber", "07963258457")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:email", "test04@you.com")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:phone", "07963258457")]
         public virtual void DontCreateAnAccountIfAnyMandatoryFieldIsMissed_Andre()
         {
 #line 18
- this.DontCreateAnAccountIfAnyMandatoryFieldIsMissed("Andre", "dada", "test1@you.com", "07963258457", ((string[])(null)));
+ this.DontCreateAnAccountIfAnyMandatoryFieldIsMissed("Andre", "dada", "test04@you.com", "07963258457", ((string[])(null)));
 #line hidden
         }
         
@@ -176,12 +178,12 @@ namespace PCWorkMSTestFramework.FeatureFiles
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "Tolu")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:firstname", "Tolu")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:lastname", "Fola")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:emailaddress", "de1@dc.com")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:phonenumber", "01234568977")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:email", "de04@dc.com")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:phone", "01234568977")]
         public virtual void DontCreateAnAccountIfAnyMandatoryFieldIsMissed_Tolu()
         {
 #line 18
- this.DontCreateAnAccountIfAnyMandatoryFieldIsMissed("Tolu", "Fola", "de1@dc.com", "01234568977", ((string[])(null)));
+ this.DontCreateAnAccountIfAnyMandatoryFieldIsMissed("Tolu", "Fola", "de04@dc.com", "01234568977", ((string[])(null)));
 #line hidden
         }
     }
