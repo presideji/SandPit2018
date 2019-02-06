@@ -1,0 +1,10 @@
+\\gandalf\home$\dakinola\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.exe.config
+\\gandalf\home$\dakinola\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.exe
+\\gandalf\home$\dakinola\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.pdb
+\\gandalf\home$\dakinola\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.csprojAssemblyReference.cache
+\\gandalf\home$\dakinola\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.csproj.CoreCompileInputs.cache
+\\gandalf\home$\dakinola\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.exe
+\\gandalf\home$\dakinola\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.pdb
