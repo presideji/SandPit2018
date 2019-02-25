@@ -20,3 +20,4 @@ C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit201
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\PCWorkMSTestFrameworkSol\PCWorkMSTestFramework\bin\Debug\WebDriver.Support.xml
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\PCWorkMSTestFrameworkSol\PCWorkMSTestFramework\obj\Debug\PCWorkMSTestFramework.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\PCWorkMSTestFrameworkSol\PCWorkMSTestFramework\obj\Debug\PCWorkMSTestFramework.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\PCWorkMSTestFrameworkSol\PCWorkMSTestFramework\obj\Debug\PCWorkMSTestFramework.csprojResolveAssemblyReference.cache

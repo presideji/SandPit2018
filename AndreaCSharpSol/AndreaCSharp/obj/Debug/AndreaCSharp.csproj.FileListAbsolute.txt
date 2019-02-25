@@ -8,3 +8,12 @@
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.exe.config
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.exe
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\SandPit2018\AndreaCSharpSol\AndreaCSharp\bin\Debug\AndreaCSharp.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\SandPit2018\AndreaCSharpSol\AndreaCSharp\obj\Debug\AndreaCSharp.csprojResolveAssemblyReference.cache

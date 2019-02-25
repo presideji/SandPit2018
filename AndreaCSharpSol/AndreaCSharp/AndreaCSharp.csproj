@@ -43,13 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GrandParent\GrandP.cs" />
+    <Compile Include="Parent\Guardian.cs" />
+    <Compile Include="PriMeth.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Example.cs" />
     <Compile Include="OldLectures.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicMeth.cs" />
+    <Compile Include="Square.cs" />
     <Compile Include="Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

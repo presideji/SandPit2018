@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace AndreaCSharp
 {
+
     public class Triangle
     {
         public int triHeight;   //variable height of triangle
@@ -19,7 +20,7 @@ namespace AndreaCSharp
             areaAnswer = triHeight * triBase;
             Console.WriteLine("The area of this triangle is {0}", areaAnswer);
             Console.WriteLine();
-
+            
         }
 
         
@@ -42,6 +43,7 @@ namespace AndreaCSharp
         }
 
 
+      
 
     }
 }
